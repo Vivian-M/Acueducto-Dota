@@ -51,6 +51,6 @@ Lo que se pretende desarrollar en este estudio es solventar la necesidad de disp
 
  Contemplando la base de datos se solventaría el poco control que tienen los funcionarios, así como el desconocimiento de los sitios en donde se localiza parte del acueducto. También funcionaría para determinar el presupuesto anual del departamento y organizar el stock de materiales que tienen en la bodega, evitando comprar material de mantenimiento o cambio en caso de roturas que no se utilizaría con prontitud.
 
- #### Referencia
+### Referencia
 
  La información expuesta en esta sección fue suministrada durante la entrevista aplicada a *Dagoberto Tencio*, realizada el *17 de julio, 2023*.
